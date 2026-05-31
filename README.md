@@ -6,9 +6,9 @@
 
 ## Skills
 - Microsoft Excel
-- Data Visualization
-- Pivot Tables & Charts
-- Dashboard Development
+- PostgreSQL
+- Power BI
+- Basic Pyhton
 - Data Cleaning
 
 ## Projects
