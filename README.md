@@ -12,7 +12,7 @@
 - Data Cleaning
 
 ## Projects
-- Global Electronics Sales Dashboard
+- Global Electronics Sales Dashboard in Excel.
 
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/saloni-chaurasia-127974356
