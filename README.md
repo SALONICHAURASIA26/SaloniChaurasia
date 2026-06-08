@@ -1,6 +1,6 @@
 # Hi, I'm Saloni Chaurasia 👋
 
-🎓 Aspiring Data Analyst | Excel | PostgreSQL | Power BI  
+🎓 Aspiring Data Analyst | Excel | PostgreSQL | Power BI | Basic Python
 📊 Passionate about Data Visualization & Dashboard Design  
 📈 Skilled in Excel, Pivot Tables, PostgreSQL, Power BI, Python
 
