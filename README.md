@@ -8,7 +8,7 @@
 - Microsoft Excel
 - PostgreSQL
 - Power BI
-- Basic Pyhton
+- Basic Python
 - Data Cleaning
 
 ## Projects
