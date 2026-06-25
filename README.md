@@ -14,7 +14,7 @@
 
 ## Projects
 - Global Electronics Sales Dashboard in Excel.
-- All SQL queries from basic to advance.
+- All SQL queries from basic to advance
 
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/saloni-chaurasia-127974356
